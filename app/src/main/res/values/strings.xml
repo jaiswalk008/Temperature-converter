@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="welcome_test">Welcome</string>
+    <string name="F_TO_C">Fahrenheit To Celsius</string>
+    <string name="C_TO_F">Celsius To Fahrenheit</string>
+    <string name="enter_temp">Enter Temperature</string>
+    <string name="convert_button">Convert</string>
+    <string name="select_text">Select any one : </string>
+</resources>
