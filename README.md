@@ -1,2 +1,2 @@
 # temperature-converter
-This is the code for Termperature converter app contains Celsius to Fahrenheit and vice-versa
+Termperature converter app to convert Celsius to Fahrenheit and vice-versa
